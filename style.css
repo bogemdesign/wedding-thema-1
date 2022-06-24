@@ -42,6 +42,7 @@ section{
 .follow {
   text-align: center;
   font-size: 12px;
+  display:block;
 a{
     color: inherit;
     text-decoration: none;
