@@ -27,6 +27,10 @@ input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointe
         --pad:2em;
     }
 }
+body{
+  background: #7f7777;
+  color: white;
+}
 section{
     max-width: 100%;
     margin: 0 auto;
