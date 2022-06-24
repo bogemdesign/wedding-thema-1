@@ -41,8 +41,9 @@ section{
 }
 .follow {
   text-align: center;
-  font-size: 12px;
+  font-size: 11px;
   display:block;
+}
 a{
     color: inherit;
     text-decoration: none;
