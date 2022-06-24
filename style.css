@@ -77,7 +77,7 @@ a{
 
 .gem-awal svg{
     position: absolute;
-    bottom: -5px;
+    bottom: 10px;
     z-index: 3;
   width: 100%;
   color:#7f7777 ;
