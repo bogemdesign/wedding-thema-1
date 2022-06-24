@@ -80,6 +80,7 @@ a{
     bottom: -5px;
     z-index: 3;
   width: 100%;
+  color:#7f7777 ;
 }
 .gem-awal-home{
     object-fit: cover;
@@ -345,6 +346,7 @@ width: 100%;
     /* top :0; */
     width: 100%;
     z-index: 8;
+    background: #7f7777;
 }
 .slidee{
     position: relative;
