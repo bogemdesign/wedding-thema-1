@@ -77,7 +77,7 @@ var swiper = new Swiper(".mySwiper", {
   centeredSlides: true,
     slidesPerView:1,
     spaceBetween: 10,
-    freeMode: true,
+   // freeMode: true,
     // coverflowEffect: {
     //   rotate: 20,
     //   stretch: 0,
@@ -87,7 +87,7 @@ var swiper = new Swiper(".mySwiper", {
     // },
     loop: true,
     autoplay: {
-        delay: 3500,
+        delay: 2000,
         disableOnInteraction: false,
       },
     pagination: {
