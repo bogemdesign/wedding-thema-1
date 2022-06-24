@@ -75,7 +75,7 @@ var swiper = new Swiper(".mySwiper", {
   // effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
-    slidesPerView:3,
+    slidesPerView:1,
     spaceBetween: 10,
     freeMode: true,
     // coverflowEffect: {
