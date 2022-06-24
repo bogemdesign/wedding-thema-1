@@ -81,6 +81,7 @@ a{
     z-index: 3;
   width: 100%;
   color:#7f7777 ;
+  background: #7f7777;
 }
 .gem-awal-home{
     object-fit: cover;
@@ -517,6 +518,7 @@ box-shadow:  20px 20px 60px #6c6565,
     word-spacing: 3px;
     font-family: 'Comic Neue', cursive;
     padding:20px ;
+    opacity: 0.6;
 }
 .con-wa .box-wa .form{
     display: flex;
