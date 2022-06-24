@@ -77,15 +77,11 @@ a{
 
 .gem-awal svg{
     position: absolute;
-    bottom: 10px;
+    bottom: 5px;
     z-index: 3;
   width: 100%;
-  color:#7f7777 ;
-  background: #7f7777;
-}
-#wave{
-  background:#7f7777 ;
-  color: #7f7777;
+  
+ 
 }
 .gem-awal-home{
     object-fit: cover;
