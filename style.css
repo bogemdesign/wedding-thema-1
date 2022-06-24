@@ -279,7 +279,7 @@ box-shadow: inset 18px 18px 54px #484444,
     padding: var(--pad);
     box-shadow: 0px -10px 18px -11px rgb(0 0 0 );
     /*border-radius: 30px 30px 0 0;*/
-    background: url('gambar/6.jpg');
+    background: url('gambar/mid.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -352,7 +352,7 @@ box-shadow: inset 18px 18px 54px #484444,
     /* top :0; */
     width: 100%;
     z-index: 8;
-    background: #7f7777;
+   
     
 }
 .slidee{
@@ -373,7 +373,7 @@ box-shadow: inset 18px 18px 54px #484444,
 /* swiper js */
 .swiper {
     width: 100%;
-    min-height: 300px;
+    min-height: 400px;
     position: relative;
     z-index: 9;
     padding: 20px 0 ;
@@ -492,7 +492,7 @@ box-shadow: inset 18px 18px 54px #484444,
     transform: scale(1.2);
 }
 .con-wa{
-    background:url("img/2.jpg");
+    background:url("gambar/kon.jpg");
     background-size: cover;
     max-height: 1000px;
     background-position: center;
