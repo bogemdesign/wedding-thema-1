@@ -236,7 +236,10 @@ width: 100%;
     /* border: 4px solid #082b42; */
     /*box-shadow:  5px 5px 5px #cfc17c,*/
     /*-5px -5px 10px rgb(217, 217, 217);*/
-             background: #7f7777;
+
+background: #7f7777;
+box-shadow: inset 18px 18px 54px #484444,
+            inset -18px -18px 54px #b6aaaa;
     border-radius: 10px;
 }
 .waktu-mundur ul li{
