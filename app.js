@@ -105,7 +105,7 @@ var swiper = new Swiper(".mySwiper", {
     if(nama ==""){
       alert('nama harus di isi')
     }else{
-      window.open(`https://wa.me/6282118391206/?text=*Konfirmasi%20Kehadiran*%0A${nama}%0A*${hadir}*%0A${text}`)
+      window.open(`https://wa.me/6283870377776/?text=*Konfirmasi%20Kehadiran*%0A${nama}%0A*${hadir}*%0A${text}`)
       location.reload()
     }
 
