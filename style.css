@@ -271,6 +271,7 @@ width: 100%;
     background: url('img/mid.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
+    background-size: cover;
     z-index: 3;
     position: relative;
     height: 99%;
